@@ -1,0 +1,250 @@
+
+		body {font-family: Ubuntu, Arial, sans-serif; font-size: 17px; font-weight: 300; line-height: 1.4; margin: 0; color: rgb(37,37,37);}
+		h1 {margin-top: 10px; margin-bottom: 15px;}
+		h1, h2, h3 {font-weight: 400;}
+		.heading-project {margin-top: 50px;}
+		p {margin-top: 0px; margin-bottom: 5px;}
+		.white-link {color: white; text-decoration: none;}
+		.white-link:hover {color: rgb(229,243,210);}
+		.black-link {color: rgb(39,113,128); text-decoration: none; font-weight: 400;}
+		.black-link:hover {color: rgb(37,37,37);}
+		.language-version-link {color: rgb(37,37,37); text-decoration: none;}
+		.language-version-link:hover {color: rgb(39,113,128); text-decoration: none;}
+		.offer-headlines:hover {color: rgb(39,113,128);}
+		.offer-paragraphs {text-align: center;}
+		.offer-paragraphs:hover {color: rgb(229,243,210);}
+		
+	@media (min-width: 1280px) {
+		.standard-margin {margin-bottom: 40px; text-align: center;}
+		.big-margin {margin-bottom: 60px; text-align: center;}
+		.offer-headlines {margin-top: 40px;}
+		#language-version-wrap {height: 30px; margin: 0 auto;}
+		#language-version {width: 1240px; margin: 0 auto; margin-top:7px; text-align: right; font-size: 14px;}
+		#introduction-wrap {text-align: center; background-color: rgb(57,57,57); color: white;}
+		#introduction {width: 1240px; margin-left: auto; margin-right: auto; padding-top: 50px; padding-bottom: 50px; text-align: center; background-color: rgb(57,57,57); color: white;}
+		#introduction-paragraph {font-size:20px;}
+		#about-me-wrap {margin: 0 auto; background-color: rgb(229,243,210);}
+		#about-me {width: 827px; margin: 0 auto; padding-top: 20px; padding-bottom: 60px; text-align: left;}
+		#logo-wrap {overflow: hidden; margin: 0 auto; text-align: center;}
+		#logo {width:1240px; overflow: hidden; margin: 0 auto; padding-top: 20px; padding-bottom: 60px; text-align: center;}
+		#logo-onet {width:195px; float: left; margin-right: 105px; text-align: center;}
+		#logo-livepress {width:105px; float: left; margin-right: 105px; text-align: center;}
+		#logo-poly9 {width:94px; float: left; margin-right: 105px; text-align: center;}
+		#logo-redgage {width:195px; float: left; margin-right: 105px; text-align: center;}
+		#logo-kakaranet {width:230px; float: left; text-align: center;}
+		#technologies-wrap {margin: 0 auto; text-align: center;}
+		#technologies {width: 829px; margin: 0 auto; padding-top: 20px; padding-bottom: 90px; text-align: center;}
+		.technologies-item {width: 101px; margin: 0 auto; text-align: center; float: left;}
+		.technologies-separator {width: 3px; margin: 0 auto; text-align: center; float: left;}
+		#what-do-I-offer-wrap {overflow: hidden; margin: 0 auto; text-align: center; background-color: rgb(57,57,57); color: white;}
+		#what-do-I-offer {width: 1240px; overflow: hidden; margin: 0 auto; padding-top: 20px; padding-bottom: 60px; text-align: center;} 
+		#building-for-scale {width: 280px; float: left; margin-right: 40px;}
+		#clustered-solutions {width: 280px; float: left; margin-right: 40px;}
+		#development {width: 280px; float: left; margin-right: 40px;}
+		#devops {width: 280px; float: left;}
+		#portfolio-wrap {margin: 0 auto;}
+		#portfolio {width: 827px; margin: 0 auto; padding-top: 20px; padding-bottom: 60px;}
+		#testimonials-wrap {margin: 0 auto; background-color: rgb(57,57,57); color: white;}
+		#testimonials {width: 827px; margin: 0 auto; padding-top: 20px;padding-bottom: 60px;}
+		#public-appearances-wrap {overflow: hidden; margin: 0 auto;  background-color: rgb(229,243,210);} 
+		#public-appearances {width: 1240px; overflow: hidden; margin: 0 auto; padding-top: 20px; padding-bottom: 60px;}
+		#video {width: 600px; height: 326px; float: left; margin-right: 40px;}
+		#conference-description {width: 600px; height: 326px; float: left;}
+		#cooperation-wrap {margin: 0 auto;}
+		#cooperation {width: 827px; margin: 0 auto; padding-top: 20px; padding-bottom: 60px;}
+		#contact-wrap {overflow: hidden; margin: 0 auto; text-align: center; background-color: rgb(57,57,57); color: white;}
+		#contact {width: 1240px; overflow: hidden; margin: 0 auto; padding-top: 20px; padding-bottom: 70px; text-align: center;} 
+		#telephone {width: 280px; float: left; margin-right: 40px;}
+		#phone-color:hover {color: rgb(229,243,210);}
+		#e-mail {width: 280px; float: left; margin-right: 40px;}
+		#github {width: 280px; float: left; margin-right: 40px;}
+		#linkedin {width: 280px; float: left;}
+		}
+	@media (min-width: 1024px) and (max-width: 1279px) {
+		.standard-margin {margin-bottom: 40px; text-align: center;}
+		.big-margin {margin-bottom: 60px; text-align: center;}
+		.offer-headlines {margin-top: 40px;}
+		#language-version-wrap {height: 30px; margin: 0 auto;}
+		#language-version {width: 960px; margin: 0 auto; margin-top:7px; text-align: right; font-size: 14px;}
+		#introduction-wrap {text-align: center; background-color: rgb(57,57,57); color: white;}
+		#introduction {width: 960px; margin-left: auto; margin-right: auto; padding-top: 50px; padding-bottom: 50px; text-align: center; background-color: rgb(57,57,57); color: white;}
+		#introduction-paragraph {font-size:20px;}
+		#about-me-wrap {margin: 0 auto; background-color: rgb(229,243,210);}
+		#about-me {width: 829px; margin: 0 auto; padding-top: 20px; padding-bottom: 60px; text-align: left;}
+		#logo-wrap {overflow: hidden; margin: 0 auto; text-align: center;}
+		#logo {width:960px; overflow: hidden; margin: 0 auto; padding-top: 20px; padding-bottom: 60px; text-align: center;}
+		#logo-onet {width:156px; float: left; margin-right: 76px; text-align: center;}
+		#logo-livepress {width:84px; float: left; margin-right: 76px; text-align: center;}
+		#logo-poly9 {width:75px; float: left; margin-right: 76px; text-align: center;}
+		#logo-redgage {width:156px; float: left; margin-right: 76px; text-align: center;}
+		#logo-kakaranet {width:184px; float: left; text-align: center;}
+		#technologies-wrap {margin: 0 auto; text-align: center;}
+		#technologies {width: 829px; margin: 0 auto; padding-top: 20px; padding-bottom: 90px; text-align: center;}
+		.technologies-item {width: 101px; margin: 0 auto; text-align: center; float: left;}
+		.technologies-separator {width: 3px; margin: 0 auto; text-align: center; float: left;}
+		#what-do-I-offer-wrap {overflow: hidden; margin: 0 auto; text-align: center; background-color: rgb(57,57,57); color: white;}
+		#what-do-I-offer {width: 960px; overflow: hidden; margin: 0 auto; padding-top: 20px; padding-bottom: 60px; text-align: center;} 
+		#building-for-scale {width: 210px; float: left; margin-right: 40px;}
+		#clustered-solutions {width: 210px; float: left; margin-right: 40px;}
+		#development {width: 210px; float: left; margin-right: 40px;}
+		#devops {width: 210px; float: left;}
+		#portfolio-wrap {margin: 0 auto;}
+		#portfolio {width: 827px; margin: 0 auto; padding-top: 20px; padding-bottom: 60px;}
+		#testimonials-wrap {margin: 0 auto; background-color: rgb(57,57,57); color: white;}
+		#testimonials {width: 827px; margin: 0 auto; padding-top: 20px;padding-bottom: 60px;}
+		#public-appearances-wrap {overflow: hidden; margin: 0 auto;} 
+		#public-appearances {width: 960px; overflow: hidden; margin: 0 auto; padding-top: 20px; padding-bottom: 60px;}
+		#video {width: 600px; height: 326px; float: left; margin-right: 40px;}
+		#conference-description {width: 320px; height: 326px; float: left;}
+		#cooperation-wrap {margin: 0 auto; background-color: rgb(229,243,210);}
+		#cooperation {width: 827px; margin: 0 auto; padding-top: 20px; padding-bottom: 60px;}
+		#contact-wrap {overflow: hidden; margin: 0 auto; text-align: center; background-color: rgb(57,57,57); color: white;}
+		#contact {width: 960px; overflow: hidden; margin: 0 auto; padding-top: 20px; padding-bottom: 70px; text-align: center;} 
+		#telephone {width: 210px; float: left; margin-right: 40px;}
+		#phone-color:hover {color: rgb(229,243,210);}
+		#e-mail {width: 210px; float: left; margin-right: 40px;}
+		#github {width: 210px; float: left; margin-right: 40px;}
+		#linkedin {width: 210px; float: left;}
+		}
+	@media (min-width: 768px) and (max-width: 1023px) {
+		.standard-margin {margin-bottom: 40px; text-align: center;}
+		.big-margin {margin-bottom: 40px; text-align: center;}
+		.offer-headlines {margin-top: 50px;}
+		#language-version-wrap {height: 30px; margin: 0 auto;}
+		#language-version {width: 750px; margin: 0 auto; margin-top:7px; text-align: right; font-size: 14px;}
+		#introduction-wrap {text-align: center; background-color: rgb(57,57,57); color: white;}
+		#introduction {width: 750px; margin-left: auto; margin-right: auto; padding-top: 50px; padding-bottom: 50px; text-align: center; background-color: rgb(57,57,57); color: white;}
+		#introduction-paragraph {font-size:20px;}
+		#about-me-wrap {margin: 0 auto; background-color: rgb(229,243,210);}
+		#about-me {width: 750px; margin: 0 auto; padding-top: 20px; padding-bottom: 60px; text-align: left;}
+		#logo-wrap {overflow: hidden; margin: 0 auto; text-align: center;}
+		#logo {width:750px; overflow: hidden; margin: 0 auto; padding-top: 20px; padding-bottom: 40px; text-align: center;}
+		#logo-onet {width:156px; display: inline-block; margin-right: 76px; margin-left: 76px; margin-bottom: 10px; text-align: center;}
+		#logo-livepress {width:84px; display: inline-block; margin-right: 76px; margin-bottom: 10px; text-align: center;}
+		#logo-poly9 {width:75px; display: inline-block; margin-right: 76px; margin-bottom: 10px; text-align: center;}
+		#logo-redgage {width:156px; display: inline-block; margin-right: 76px; text-align: center;}
+		#logo-kakaranet {width:184px; display: inline-block; text-align: center;}
+		#technologies-wrap {margin: 0 auto; text-align: center;}
+		#technologies {width: 500px; margin: 0 auto; padding-top: 20px; padding-bottom: 60px; text-align: center;}
+		.technologies-item {width: 101px; margin: 0 auto; text-align: center; display: inline-block;}
+		.technologies-separator {width: 3px; margin: 0 auto; text-align: center; display: inline-block;}
+		#Haskell-separator {display: none;}
+		#what-do-I-offer-wrap {overflow: hidden; margin: 0 auto; text-align: center; background-color: rgb(57,57,57); color: white;}
+		#what-do-I-offer {width: 640px; overflow: hidden; margin: 0 auto; padding-top: 20px; padding-bottom: 60px; text-align: center;} 
+		#building-for-scale {width: 300px; height: 340px; float: left; margin-right: 40px; margin-bottom: 50px;}
+		#clustered-solutions {width: 300px; height: 340px; float: left; margin-bottom: 50px;}
+		#development {width: 300px; height: 340px; float: left; margin-right: 40px;}
+		#devops {width: 300px; height: 340px; float: left;}
+		#portfolio-wrap {margin: 0 auto;}
+		#portfolio {width: 750px; margin: 0 auto; padding-top: 20px; padding-bottom: 60px;}
+		#testimonials-wrap {margin: 0 auto; background-color: rgb(57,57,57); color: white;}
+		#testimonials {width: 750px; margin: 0 auto; padding-top: 20px;padding-bottom: 60px;}
+		#public-appearances-wrap {overflow: hidden; margin: 0 auto;} 
+		#public-appearances {width: 750px; overflow: hidden; margin: 0 auto; padding-top: 20px; padding-bottom: 60px;}
+		#video {width: 750px; margin: 0 auto; text-align: center;}
+		#conference-description {width: 600px; margin: 0 auto; }
+		#cooperation-wrap {margin: 0 auto; background-color: rgb(229,243,210);}
+		#cooperation {width: 750px; margin: 0 auto; padding-top: 20px; padding-bottom: 60px;}
+		#contact-wrap {overflow: hidden; margin: 0 auto; text-align: center; background-color: rgb(57,57,57); color: white;}
+		#contact {width: 750px; overflow: hidden; margin: 0 auto; padding-top: 20px; padding-bottom: 30px; text-align: center;} 
+		#telephone {width: 280px; display: inline-block; margin: 0 auto; margin-bottom: 50px;}
+		#phone-color:hover {color: rgb(229,243,210);}
+		#e-mail {width: 280px; display: inline-block; margin: 0 auto; margin-bottom: 50px;}
+		#github {width: 280px; display: inline-block; margin: 0 auto; margin-bottom: 50px;}
+		#linkedin {width: 280px; display: inline-block; margin: 0 auto; margin-bottom: 50px;}
+		}
+	@media (min-width: 480px) and (max-width: 767px) {
+		.standard-margin {margin-bottom: 40px; text-align: center;}
+		.big-margin {margin-bottom: 40px; text-align: center;}
+		.offer-headlines {margin-top: 25px;}
+		#language-version-wrap {height: 30px; margin: 0 auto;}
+		#language-version {width: 450px; margin: 0 auto; margin-top:7px; text-align: right; font-size: 14px;}
+		#introduction-wrap {text-align: center; background-color: rgb(57,57,57); color: white;}
+		#introduction {width: 450px; margin-left: auto; margin-right: auto; padding-top: 50px; padding-bottom: 50px; text-align: center; background-color: rgb(57,57,57); color: white;}
+		#introduction-paragraph {font-size:20px;}
+		#about-me-wrap {margin: 0 auto; background-color: rgb(229,243,210);}
+		#about-me {width: 450px; margin: 0 auto; padding-top: 20px; padding-bottom: 60px; text-align: left;}
+		#logo-wrap {overflow: hidden; margin: 0 auto; text-align: center;}
+		#logo {width:450px; overflow: hidden; margin: 0 auto; padding-top: 20px; padding-bottom: 40px; text-align: center;}
+		#logo-onet {width:156px; display: inline-block; margin: 0 auto; margin-bottom: 5px; text-align: center;}
+		#logo-livepress {width:84px; display: inline-block; margin: 0 auto; margin-bottom: 5px; text-align: center;}
+		#logo-poly9 {width:75px; display: inline-block; margin-left: 15px; margin-bottom: 5px; text-align: center;}
+		#logo-redgage {width:156px; display: inline-block; margin: 0 auto; text-align: center;}
+		#logo-kakaranet {width:184px; display: inline-block; margin: 0 auto; text-align: center;}
+		#technologies-wrap {margin: 0 auto; text-align: center;}
+		#technologies {width: 450px; margin: 0 auto; padding-top: 20px; padding-bottom: 60px; text-align: center;}
+		.technologies-item {width: 101px; margin: 0 auto; text-align: center; display: inline-block;}
+		.technologies-separator {width: 3px; margin: 0 auto; text-align: center; display: inline-block;}
+		#Haskell-separator {display: none;}
+		#what-do-I-offer-wrap {overflow: hidden; margin: 0 auto; text-align: center; background-color: rgb(57,57,57); color: white;}
+		#what-do-I-offer {width: 450px; overflow: hidden; margin: 0 auto; padding-top: 20px; padding-bottom: 60px; text-align: center;} 
+		#building-for-scale {width: 450px; display: inline-block; margin-right: 40px; margin-bottom: 70px;}
+		#clustered-solutions {width: 450px; display: inline-block; margin-bottom: 70px;}
+		#development {width: 450px; display: inline-block; margin-right: 40px; margin-bottom: 70px;}
+		#devops {width: 450px; display: inline-block;}
+		#portfolio-wrap {margin: 0 auto;}
+		#portfolio {width: 450px; margin: 0 auto; padding-top: 20px; padding-bottom: 60px;}
+		#testimonials-wrap {margin: 0 auto; background-color: rgb(57,57,57); color: white;}
+		#testimonials {width: 450px; margin: 0 auto; padding-top: 20px;padding-bottom: 60px;}
+		#public-appearances-wrap {overflow: hidden; margin: 0 auto;} 
+		#public-appearances {width: 450px; overflow: hidden; margin: 0 auto; padding-top: 20px; padding-bottom: 60px;}
+		#video {width: 450px; margin: 0 auto;}
+		#conference-video-image {width: 450px;}
+		#conference-description {width: 450px; float: left;}
+		#cooperation-wrap {margin: 0 auto; background-color: rgb(229,243,210);}
+		#cooperation {width: 450px; margin: 0 auto; padding-top: 20px; padding-bottom: 60px;}
+		#contact-wrap {overflow: hidden; margin: 0 auto; text-align: center; background-color: rgb(57,57,57); color: white;}
+		#contact {width: 450px; overflow: hidden; margin: 0 auto; padding-top: 20px; padding-bottom: 30px; text-align: center;} 
+		#telephone {width: 280px; display: inline-block; margin: 0 auto; margin-bottom: 30px;}
+		#phone-color:hover {color: rgb(229,243,210);}
+		#e-mail {width: 280px; display: inline-block; margin: 0 auto; margin-bottom: 30px;}
+		#github {width: 280px; display: inline-block; margin: 0 auto; margin-bottom: 30px;}
+		#linkedin {width: 280px; display: inline-block; margin: 0 auto; margin-bottom: 30px;}
+		}		
+	@media(max-width: 479px) {
+		.standard-margin {margin-bottom: 40px; text-align: center;}
+		.big-margin {margin-bottom: 40px; text-align: center;}
+		.offer-headlines {margin-top: 25px;}
+		#language-version-wrap {height: 30px; margin: 0 auto;}
+		#language-version {width: 300px; margin: 0 auto; margin-top:7px; text-align: right; font-size: 14px;}
+		#introduction-wrap {text-align: center; background-color: rgb(57,57,57); color: white;}
+		#introduction {width: 300px; margin-left: auto; margin-right: auto; padding-top: 50px; padding-bottom: 50px; text-align: center; background-color: rgb(57,57,57); color: white;}
+		#introduction-paragraph {font-size:20px;}
+		#about-me-wrap {margin: 0 auto; background-color: rgb(229,243,210);}
+		#about-me {width: 300px; margin: 0 auto; padding-top: 20px; padding-bottom: 60px; text-align: left;}
+		#logo-wrap {overflow: hidden; margin: 0 auto; text-align: center;}
+		#logo {width:300px; overflow: hidden; margin: 0 auto; padding-top: 20px; padding-bottom: 60px; text-align: center;}
+		#logo-onet {width:156px; display: inline-block; margin: 0 auto; margin-bottom: 10px; text-align: center;}
+		#logo-livepress {width:84px; display: inline-block; margin: 0 auto; margin-bottom: 10px; text-align: center;}
+		#logo-poly9 {width:75px; display: inline-block; margin: 0 auto; margin-bottom: 10px; text-align: center;}
+		#logo-redgage {width:156px; display: inline-block; margin: 0 auto; text-align: center;}
+		#logo-kakaranet {width:184px; display: inline-block; margin: 0 auto; text-align: center;}
+		#technologies-wrap {margin: 0 auto; text-align: center;}
+		#technologies {width: 300px; margin: 0 auto; padding-top: 20px; padding-bottom: 60px; text-align: center;}
+		.technologies-item {width: 101px; margin: 0 auto; text-align: center;}
+		.technologies-separator {width: 3px; margin: 0 auto; text-align: center; display: none;}
+		#what-do-I-offer-wrap {overflow: hidden; margin: 0 auto; text-align: center; background-color: rgb(57,57,57); color: white;}
+		#what-do-I-offer {width: 300px; overflow: hidden; margin: 0 auto; padding-top: 20px; padding-bottom: 60px; text-align: center;} 
+		#building-for-scale {width: 300px; display: inline-block; margin-right: 40px; margin-bottom: 70px;}
+		#clustered-solutions {width: 300px; display: inline-block; margin-bottom: 70px;}
+		#development {width: 300px; display: inline-block; margin-right: 40px; margin-bottom: 70px;}
+		#devops {width: 300px; display: inline-block;}
+		#portfolio-wrap {margin: 0 auto;}
+		#portfolio {width: 300px; margin: 0 auto; padding-top: 20px; padding-bottom: 60px;}
+		#testimonials-wrap {margin: 0 auto; background-color: rgb(57,57,57); color: white;}
+		#testimonials {width: 300px; margin: 0 auto; padding-top: 20px;padding-bottom: 60px;}
+		#public-appearances-wrap {overflow: hidden; margin: 0 auto;} 
+		#public-appearances {width: 300px; overflow: hidden; margin: 0 auto; padding-top: 20px; padding-bottom: 60px;}
+		#video {width: 300px; margin: 0 auto;}
+		#conference-video-image {width: 300px;}
+		#conference-description {width: 300px; float: left;}
+		#cooperation-wrap {margin: 0 auto; background-color: rgb(229,243,210);}
+		#cooperation {width: 300px; margin: 0 auto; padding-top: 20px; padding-bottom: 60px;}
+		#contact-wrap {overflow: hidden; margin: 0 auto; text-align: center; background-color: rgb(57,57,57); color: white;}
+		#contact {width: 300px; overflow: hidden; margin: 0 auto; padding-top: 20px; padding-bottom: 30px; text-align: center;} 
+		#telephone {width: 280px; display: inline-block; margin: 0 auto; margin-bottom: 30px;}
+		#phone-color:hover {color: rgb(229,243,210);}
+		#e-mail {width: 280px; display: inline-block; margin: 0 auto; margin-bottom: 30px;}
+		#github {width: 280px; display: inline-block; margin: 0 auto; margin-bottom: 30px;}
+		#linkedin {width: 280px; display: inline-block; margin: 0 auto; margin-bottom: 30px;}
+		}
