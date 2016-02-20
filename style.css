@@ -1,16 +1,16 @@
 
-		body {font-family: Ubuntu, Arial, sans-serif; font-size: 17px; font-weight: 300; line-height: 1.4; margin: 0; color: rgb(37,37,37);}
+		body {font-family: Ubuntu, Arial, sans-serif; font-size: 1em; font-weight: 300; line-height: 1.4; margin: 0; color: rgb(37,37,37);}
 		h1 {margin-top: 10px; margin-bottom: 15px;}
 		h1, h2, h3 {font-weight: 400;}
 		.heading-project {margin-top: 50px;}
 		p {margin-top: 0px; margin-bottom: 5px;}
 		.white-link {color: white; text-decoration: none;}
 		.white-link:hover {color: rgb(229,243,210);}
-		.black-link {color: rgb(39,113,128); text-decoration: none; font-weight: 400;}
+		.black-link {color: rgb(39,113,128); text-decoration: none;}
 		.black-link:hover {color: rgb(37,37,37);}
 		.language-version-link {color: rgb(37,37,37); text-decoration: none;}
 		.language-version-link:hover {color: rgb(39,113,128); text-decoration: none;}
-		.offer-headlines:hover {color: rgb(39,113,128);}
+		.offer-headlines:hover {color: rgb(229,243,210);}
 		.offer-paragraphs {text-align: center;}
 		.offer-paragraphs:hover {color: rgb(229,243,210);}
 		
